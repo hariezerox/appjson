@@ -1,0 +1,16 @@
+{
+  "name": "appjson",
+  "description": "test666",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
